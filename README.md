@@ -16,4 +16,4 @@ Fitur Utama:
 
 - Desain Responsif: Aplikasi memiliki desain yang responsif dan menarik dengan latar belakang gambar, membuat pengalaman pengguna lebih menyenangkan.
 
-![rating](film2.jpg)
+![film](rating_film.png)
